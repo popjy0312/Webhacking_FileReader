@@ -99,4 +99,8 @@ session['fildData']의 내용을 출력해준다.
 
 따라서 /result로 redirect되기 직전에 다른 탭에서 flag를 열어 session['fileData']의 내용을 바꿔주면, flag의 내용을 알 수 있다.
 
+### 영상
+[![Video](http://img.youtube.com/vi/93xB2XdKkEQ/0.jpg)](https://youtu.be/93xB2XdKkEQ?t=0s)
+
+## flag
 flag: flag{p@55w0rcl_ls_53CR3T}
