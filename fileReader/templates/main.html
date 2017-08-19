@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>File Reader</title>
+  </head>
+  <body>
+    <h2>File Lists</h2>
+    {%- for file in files %}
+    <a href="readFile?fileName={{ file }}">{{ file }}</a><br>
+    {%- endfor %}
+  </body>
+</html>
+
+<!-- view-source at: https://github.com/popjy0312/web_file_reader/blob/master/server.py -->
