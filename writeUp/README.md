@@ -4,7 +4,7 @@ BoB 6기 취약점 분석 트랙 정주영
 
 사용 언어: python2.7 (flask)
 
-site: [h4ck.kr](http://h4ck.kr)
+problem URL: [h4ck.kr](http://h4ck.kr)
 
 ## 코드 분석
 
