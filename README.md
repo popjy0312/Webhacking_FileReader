@@ -7,7 +7,7 @@ email: popjy0312@naver.com
 
 problem URL: [h4ck.kr](http://h4ck.kr)
 
-*if server closed*: You can run my program on your local area. Download files on 'fileReader'.
+*if server closed*: You can run my program on your local area. Download files on [fileReader](./fileReader/).
 
 ## fileReader
 서버 환경
